@@ -1,0 +1,33 @@
+body {
+    background-color: #D5E1EF;
+    height: 97vh;
+}
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+img {
+    width: 288px;
+    border-radius: 10px;
+}
+.box {
+    width: auto;
+    height: auto;
+    padding: 16px;
+    border-radius: 20px;
+    background-color: #fff;
+}
+.p1 {
+    color: #1F314F;
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+}
+.p2 {
+    color: #68778D;
+    font-family: "Outfit", sans-serif;
+}
